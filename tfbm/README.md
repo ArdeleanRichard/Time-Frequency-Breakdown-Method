@@ -2,8 +2,6 @@
 The Time-Frequency Breakdown Method (TFBM) was developed for the detection of brain oscillations in time-frequency representations (such as spectrograms obtained from the Fourier Transform) and was published in Frontiers in Human Neuroscience:
 https://www.frontiersin.org/articles/10.3389/fnhum.2023.1112415/full
 
-![TFBM](/images/tfbm.png?raw=true)
-
 # Install:
 ```
 pip install tfbm

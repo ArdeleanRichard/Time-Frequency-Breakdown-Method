@@ -1,5 +1,5 @@
-from load_data import load_atoms_synthetic_data
-from tfbm import TFBM
+from .load_data import load_atoms_synthetic_data
+from .TFBM import TFBM
 
 if __name__ == '__main__':
     data, spectrumData = load_atoms_synthetic_data()

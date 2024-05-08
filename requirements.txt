@@ -1,10 +1,5 @@
-pandas
 numpy
-matplotlib
-scikit-learn
 scipy
-networkx
-plotly
-fuzzy-c-means
-hdbscan
-joblib
+scikit-learn
+matplotlib
+
